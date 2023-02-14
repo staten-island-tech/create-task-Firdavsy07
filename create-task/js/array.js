@@ -1,17 +1,17 @@
-const weapons = [
+const unitCards = [
   {
-    greatSword: { baseDamage: 140, toHit: 3, parry: "false" },
-  },
-  { pike: { baseDamage: 180, toHit: 4, parry: "false" } },
-  {
-    spearAndShield: { baseDamage: 100, toHit: 2, parry: "true" },
+    uuid: { baseDamage: 1, health: 2, cardName: "Whalen", cost: 1 },
   },
   {
-    battleAxe: { baseDamage: 240, toHit: 5, parry: "false" },
+    uuid: { baseDamage: 2, health: 1, cardName: "Nicole", cost: 2 },
   },
   {
-    quarterstaff: { baseDamage: 80, toHit: 1, parry: "true" },
+    uuid: { baseDamage: 3, health: 2, cardName: "Arham", cost: 3 },
+  },
+  {
+    uuid: { baseDamage: 4, health: 4, cardName: "Zee", cost: 4 },
+  },
+  {
+    uuid: { baseDamage: 5, health: 3, cardName: "Michelle", cost: 4 },
   },
 ];
-
-const armor = [{}];
