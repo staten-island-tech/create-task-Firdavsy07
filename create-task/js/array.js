@@ -1,17 +1,37 @@
 const unitCards = [
   {
-    uuid: { baseDamage: 1, health: 2, cardName: "Whalen", cost: 1 },
+    uuid: {
+      baseDamage: 1,
+      cardName: "Whalen",
+      abilites: "Mald",
+      desc: "If Zee or Arham oppose this card Whalen destroys it",
+    },
   },
   {
-    uuid: { baseDamage: 2, health: 1, cardName: "Nicole", cost: 2 },
+    uuid: {
+      baseDamage: 2,
+      cardName: "Nicole",
+      abilites: "Greek",
+      desc: "If played in position 2 gains 2 more power",
+    },
   },
   {
-    uuid: { baseDamage: 3, health: 2, cardName: "Arham", cost: 3 },
+    uuid: { baseDamage: 3, cardName: "Arham", abilites: "None", desc: "None" },
   },
   {
-    uuid: { baseDamage: 4, health: 4, cardName: "Zee", cost: 4 },
+    uuid: {
+      baseDamage: 4,
+      cardName: "Zee",
+      abilites: "Cringe",
+      desc: "If there is no card opposing me, I destroy myself",
+    },
   },
   {
-    uuid: { baseDamage: 5, health: 3, cardName: "Michelle", cost: 4 },
+    uuid: {
+      baseDamage: 5,
+      cardName: "Michelle",
+      abilites: "None",
+      desc: "None",
+    },
   },
 ];
