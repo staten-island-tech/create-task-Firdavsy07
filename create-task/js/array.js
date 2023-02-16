@@ -5,6 +5,7 @@ const unitCards = [
       cardName: "Whalen",
       abilites: "Mald",
       desc: "If Zee or Arham oppose this card Whalen destroys it",
+      cardFront: "/images/Whalen.png",
     },
   },
   {
