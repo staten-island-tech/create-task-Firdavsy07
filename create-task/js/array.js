@@ -17,18 +17,18 @@ const unitCards = [
   },
   {
     uuid: {
-      baseDamage: 3,
-      cardName: "Arham",
-      abilites: "None",
-      cardFront: "None",
+      baseDamage: 2,
+      cardName: "Jake",
+      abilites: "Alimony",
+      cardFront: "/images/jake.png",
     },
   },
   {
     uuid: {
-      baseDamage: 4,
-      cardName: "Zee",
-      abilites: "Cringe",
-      cardFront: "",
+      baseDamage: 3,
+      cardName: "Arham",
+      abilites: "None",
+      cardFront: "/images/ARHAM.png",
     },
   },
   {
