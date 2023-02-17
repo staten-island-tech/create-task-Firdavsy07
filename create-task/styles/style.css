@@ -28,9 +28,23 @@ html,body{
     height: 140px;
     cursor: pointer;
     align-items: center;
+    margin: 30px;
 }
 
 .card-img{
 height: 150%;
 width: 150%
+}
+
+.deck{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+
+.area1container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }

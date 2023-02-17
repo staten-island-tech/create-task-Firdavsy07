@@ -12,7 +12,7 @@ const unitCards = [
       baseDamage: 2,
       cardName: "Nicole",
       abilites: "Greek",
-      cardFront: "Nicole.png",
+      cardFront: "/images/Nicole.png",
     },
   },
   {
@@ -37,6 +37,14 @@ const unitCards = [
       cardName: "Michelle",
       abilites: "None",
       cardFront: "None",
+    },
+  },
+  {
+    uuid: {
+      baseDamage: 0,
+      cardName: "Rerick",
+      abilites: "Wrath",
+      cardFront: "/images/rerick.png",
     },
   },
 ];

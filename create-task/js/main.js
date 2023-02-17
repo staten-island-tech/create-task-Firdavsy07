@@ -7,11 +7,12 @@ const DOMselectors = {
   area2: document.querySelector(".area2Container"),
   area3: document.querySelector(".area3Container"),
   testButton: document.querySelector(".button"),
+  deck: document.querySelector(".deck"),
 };
 
-DOMselectors.testButton.addEventListener("click", function (event) {
+DOMselectors.testButton.addEventListener("click", function () {
   unitCards.forEach((unitCards, {}) => {
-    DOMselectors.area1.insertAdjacentHTML(
+    DOMselectors.deck.insertAdjacentHTML(
       "afterbegin",
       `
       <div class="card">
@@ -22,7 +23,7 @@ DOMselectors.testButton.addEventListener("click", function (event) {
         />
       </div>
       <div class="card-back">
-        <img class="card-img" src="/images/Whalen.png" />
+        <img class="card-img" src="${unitCards.uuid.cardFront}" />
       </div>
     </div>
 
