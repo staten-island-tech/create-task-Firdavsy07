@@ -34,9 +34,9 @@ const unitCards = [
   {
     uuid: {
       baseDamage: 5,
-      cardName: "Michelle",
+      cardName: "Firdavs",
       abilites: "None",
-      cardFront: "None",
+      cardFront: "/images/Firdavs.jpg",
     },
   },
   {
