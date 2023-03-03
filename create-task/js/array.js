@@ -36,7 +36,7 @@ const unitCards = [
       baseDamage: 5,
       cardName: "Firdavs",
       abilites: "None",
-      cardFront: "/images/Firdavs.jpg",
+      cardFront: "/images/FIRdavs.png",
     },
   },
   {
