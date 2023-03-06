@@ -195,3 +195,25 @@ margin:60px
 .button:hover span:nth-child(4 ) {
   bottom: 50%;
 }
+
+#Nicole{
+  color: blue
+}
+#Firdavs{
+  color: green
+}
+#Whalen{
+  color: red
+}
+#Arham{
+  color: purple
+}#Jake{
+  color: orange
+}
+#Rerick{
+  color: blue
+}
+
+#dRerick{
+  position: absolute;
+}
