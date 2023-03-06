@@ -43,6 +43,7 @@ width: 170%
     display: flex;
     justify-content: center;
     flex-direction: row;
+    margin: 300px
 }
 
 .area1container{
@@ -196,29 +197,13 @@ margin:60px
   bottom: 50%;
 }
 
-#Nicole{
-  color: blue
-}
-#Firdavs{
-  color: green
-}
-#Whalen{
-  color: red
-}
-#Arham{
-  color: purple
-}#Jake{
-  color: orange
-}
-#Rerick{
-  color: blue
-}
+#
 
 #dRerick{
-  position: absolute;
+  position: relative;
 }
 #dFirdavs{
-  position: absolute;
+  position: relative;
 }
 
 .announce{

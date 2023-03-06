@@ -81,6 +81,10 @@ DOMselectors.testButton.addEventListener("click", function () {
     Firdavs1: document.querySelector("#Firdavs1"),
     Firdavs2: document.querySelector("#Firdavs2"),
     Firdavs3: document.querySelector("#Firdavs3"),
+    cArham: document.querySelector("#cArham"),
+    Arham1: document.querySelector("#Arham1"),
+    Arham2: document.querySelector("#Arham2"),
+    Arham3: document.querySelector("#Arham3"),
   };
   console.log(cardIds);
   //*Rerick*//
@@ -220,6 +224,85 @@ DOMselectors.testButton.addEventListener("click", function () {
     playedCards.push("Firdavs");
     unitCards
       .filter((card) => card.uuid.cardName.includes("Firdavs"))
+      .forEach((unitCards, {}) => {
+        DOMselectors.area3.insertAdjacentHTML(
+          "afterbegin",
+          `
+        <div class="card" id="d${unitCards.uuid.cardName}">
+        <div class="card-front">
+        
+          <img
+            class="card-img"
+            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+          /> 
+        </div>
+        <div class="card-back">
+          <img class="card-img" src="${unitCards.uuid.cardFront}" />
+        </div>
+      </div>
+  
+  `
+        );
+      });
+  });
+  //*Arham*//
+  cardIds.Arham1.addEventListener("click", function () {
+    cardIds.cArham.remove();
+    playedCards.push("Arham");
+    unitCards
+      .filter((card) => card.uuid.cardName.includes("Arham"))
+      .forEach((unitCards, {}) => {
+        DOMselectors.area1.insertAdjacentHTML(
+          "afterbegin",
+          `
+        <div class="card" id="d${unitCards.uuid.cardName}">
+        <div class="card-front">
+        
+          <img
+            class="card-img"
+            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+          /> 
+        </div>
+        <div class="card-back">
+          <img class="card-img" src="${unitCards.uuid.cardFront}" />
+        </div>
+      </div>
+  
+  `
+        );
+      });
+  });
+  cardIds.Arham2.addEventListener("click", function () {
+    cardIds.cArham.remove();
+    playedCards.push("Arham");
+    unitCards
+      .filter((card) => card.uuid.cardName.includes("Arham"))
+      .forEach((unitCards, {}) => {
+        DOMselectors.area2.insertAdjacentHTML(
+          "afterbegin",
+          `
+        <div class="card" id="d${unitCards.uuid.cardName}">
+        <div class="card-front">
+        
+          <img
+            class="card-img"
+            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+          /> 
+        </div>
+        <div class="card-back">
+          <img class="card-img" src="${unitCards.uuid.cardFront}" />
+        </div>
+      </div>
+  
+  `
+        );
+      });
+  });
+  cardIds.Arham3.addEventListener("click", function () {
+    cardIds.cArham.remove();
+    playedCards.push("Arham");
+    unitCards
+      .filter((card) => card.uuid.cardName.includes("Arham"))
       .forEach((unitCards, {}) => {
         DOMselectors.area3.insertAdjacentHTML(
           "afterbegin",
