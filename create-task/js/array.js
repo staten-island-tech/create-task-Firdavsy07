@@ -4,7 +4,7 @@ const unitCards = [
       baseDamage: 1,
       cardName: "Whalen",
       abilites: "Mald",
-      cardFront: "/images/Whalen.png",
+      cardFront: "../public/images/Whalen.png",
     },
   },
   {
@@ -12,7 +12,7 @@ const unitCards = [
       baseDamage: 2,
       cardName: "Nicole",
       abilites: "Greek",
-      cardFront: "/images/Nicole.png",
+      cardFront: "../public/images/Nicole.png",
     },
   },
   {
@@ -20,7 +20,7 @@ const unitCards = [
       baseDamage: 2,
       cardName: "Jake",
       abilites: "Alimony",
-      cardFront: "/images/jake.png",
+      cardFront: "../public/images/jake.png",
     },
   },
   {
@@ -28,7 +28,7 @@ const unitCards = [
       baseDamage: 3,
       cardName: "Arham",
       abilites: "None",
-      cardFront: "/images/ARHAM.png",
+      cardFront: "../public/images/ARHAM.png",
     },
   },
   {
@@ -36,7 +36,7 @@ const unitCards = [
       baseDamage: 5,
       cardName: "Firdavs",
       abilites: "None",
-      cardFront: "/images/FIRdavs.png",
+      cardFront: "../public/images/FIRdavs.png",
     },
   },
   {
@@ -44,7 +44,7 @@ const unitCards = [
       baseDamage: 0,
       cardName: "Rerick",
       abilites: "Wrath",
-      cardFront: "/images/rerick.png",
+      cardFront: "../public/images/rerick.png",
     },
   },
 ];

@@ -64,7 +64,7 @@ DOMselectors.testButton.addEventListener("click", function () {
       
         <img
           class="card-img"
-          src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+          src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
         /> 
       </div>
       <div class="card-back">
@@ -122,7 +122,7 @@ DOMselectors.testButton.addEventListener("click", function () {
         
           <img
             class="card-img"
-            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+            src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
           /> 
         </div>
         <div class="card-back">
@@ -148,7 +148,7 @@ DOMselectors.testButton.addEventListener("click", function () {
         
           <img
             class="card-img"
-            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+            src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
           /> 
         </div>
         <div class="card-back">
@@ -174,7 +174,7 @@ DOMselectors.testButton.addEventListener("click", function () {
         
           <img
             class="card-img"
-            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+            src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
           /> 
         </div>
         <div class="card-back">
@@ -201,7 +201,7 @@ DOMselectors.testButton.addEventListener("click", function () {
         
           <img
             class="card-img"
-            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+            src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
           /> 
         </div>
         <div class="card-back">
@@ -227,7 +227,7 @@ DOMselectors.testButton.addEventListener("click", function () {
         
           <img
             class="card-img"
-            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+            src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
           /> 
         </div>
         <div class="card-back">
@@ -253,7 +253,7 @@ DOMselectors.testButton.addEventListener("click", function () {
         
           <img
             class="card-img"
-            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+            src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
           /> 
         </div>
         <div class="card-back">
@@ -280,7 +280,7 @@ DOMselectors.testButton.addEventListener("click", function () {
         
           <img
             class="card-img"
-            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+            src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
           /> 
         </div>
         <div class="card-back">
@@ -306,7 +306,7 @@ DOMselectors.testButton.addEventListener("click", function () {
         
           <img
             class="card-img"
-            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+            src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
           /> 
         </div>
         <div class="card-back">
@@ -332,7 +332,7 @@ DOMselectors.testButton.addEventListener("click", function () {
         
           <img
             class="card-img"
-            src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+            src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
           /> 
         </div>
         <div class="card-back">
@@ -359,7 +359,7 @@ DOMselectors.testButton.addEventListener("click", function () {
           
             <img
               class="card-img"
-              src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+              src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
             /> 
           </div>
           <div class="card-back">
@@ -385,7 +385,7 @@ DOMselectors.testButton.addEventListener("click", function () {
           
             <img
               class="card-img"
-              src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+              src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
             /> 
           </div>
           <div class="card-back">
@@ -411,7 +411,7 @@ DOMselectors.testButton.addEventListener("click", function () {
           
             <img
               class="card-img"
-              src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+              src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
             /> 
           </div>
           <div class="card-back">
@@ -438,7 +438,7 @@ DOMselectors.testButton.addEventListener("click", function () {
           
             <img
               class="card-img"
-              src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+              src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
             /> 
           </div>
           <div class="card-back">
@@ -464,7 +464,7 @@ DOMselectors.testButton.addEventListener("click", function () {
           
             <img
               class="card-img"
-              src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+              src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
             /> 
           </div>
           <div class="card-back">
@@ -490,7 +490,7 @@ DOMselectors.testButton.addEventListener("click", function () {
           
             <img
               class="card-img"
-              src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+              src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
             /> 
           </div>
           <div class="card-back">
@@ -517,7 +517,7 @@ DOMselectors.testButton.addEventListener("click", function () {
           
             <img
               class="card-img"
-              src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+              src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
             /> 
           </div>
           <div class="card-back">
@@ -543,7 +543,7 @@ DOMselectors.testButton.addEventListener("click", function () {
           
             <img
               class="card-img"
-              src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+              src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
             /> 
           </div>
           <div class="card-back">
@@ -569,7 +569,7 @@ DOMselectors.testButton.addEventListener("click", function () {
           
             <img
               class="card-img"
-              src="/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
+              src="../public/images/Cardback_Emblem_Sentinel_Icon_Crispmip.png "
             /> 
           </div>
           <div class="card-back">
